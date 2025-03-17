@@ -1,0 +1,7 @@
+com\devtiro\database\domain\Book$BookBuilder.class
+com\devtiro\database\domain\Author.class
+com\devtiro\database\repositories\BookRepository.class
+com\devtiro\database\domain\Author$AuthorBuilder.class
+com\devtiro\database\repositories\AuthorRepository.class
+com\devtiro\database\domain\Book.class
+com\devtiro\database\DatabaseApplication.class

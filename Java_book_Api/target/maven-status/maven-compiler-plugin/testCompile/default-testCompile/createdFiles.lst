@@ -1,0 +1,4 @@
+com\devtiro\database\repositories\AuthorRepositoryIntegrationTests.class
+com\devtiro\database\repositories\BookRepositoryIntegrationTests.class
+com\devtiro\database\DatabaseApplicationTests.class
+com\devtiro\database\TestDataUtil.class
